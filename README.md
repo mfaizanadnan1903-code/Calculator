@@ -42,3 +42,10 @@ I learned out:
 -How to develop small scripts and how to structure it
 -How to perform data operations based on the concept of matrices
 -How to effectively develop a solution using external module
+
+## Author
+
+**M.Faizan Adnan**
+student of superior college| Beginner python programmer
+
+
