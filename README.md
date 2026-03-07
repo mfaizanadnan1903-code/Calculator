@@ -4,7 +4,7 @@ This main repository**Calculator** contains the whole project in which I build m
 
 This project is a part of my ***python programming journey***.
 
-#project structure
+## Project structure
 
 First.py
 
@@ -12,7 +12,7 @@ Second.py
 
 Third.py
 
-#project description 
+## Project description 
 
 1)First.py : It contains the whole program in which it just calls the functions or do some tasks if they are very small to do.
 
