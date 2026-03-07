@@ -20,3 +20,16 @@ Third.py
 
 3)Third.py : It contains especially statistics modules specifically created my own.
 
+## Features
+
+User-nteractive layout
+Many Multiple functions
+Choose based on your work
+Also has some special algorithms
+
+## Technologies used
+
+Python(programming language)
+internal modules(math,statistics)
+external module(numpy)
+custom scripts
