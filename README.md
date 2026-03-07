@@ -29,7 +29,16 @@ Also has some special algorithms
 
 ## Technologies used
 
-Python(programming language)
-internal modules(math,statistics)
-external module(numpy)
-custom scripts
+Python(programming language),
+internal modules(math,statistics),
+external module(numpy),
+custom scripts.
+
+## Learning purpose
+
+I learned out:
+-How to structure a project
+-How to develop solutions of small problems
+-How to develop small scripts and how to structure it
+-How to perform data operations based on the concept of matrices
+-How to effectively develop a solution using external module
