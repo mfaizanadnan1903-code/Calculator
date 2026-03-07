@@ -1,13 +1,15 @@
 # Calculator- By python(programming langouage) and its modules along with external module(numpy)
 
-This main repository"Calculator" contains the whole project in which I build my whole big project in which you can find out dofferent functionalities regarding statistics and mathematical functions.
+This main repository**Calculator** contains the whole project in which I build my whole big project in which you can find out different functionalities regarding statistics and mathematical functions.
 
 This project is a part of my ***python programming journey***.
 
 #project structure
 
 First.py
+
 Second.py
+
 Third.py
 
 #project description 
