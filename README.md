@@ -1,4 +1,4 @@
-# Calculator- By python(programming langouage) and its modules along with external module(numpy)
+# Calculator- By python(programming language) and its modules along with external module(numpy)
 
 This main repository**Calculator** contains the whole project in which I build my whole big project in which you can find out different functionalities regarding statistics and mathematical functions.
 
